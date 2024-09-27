@@ -5,3 +5,4 @@
 Aquí puedes poner lo que quieras
 - fotos
 - videos
+Usa el formato **Markdown**
